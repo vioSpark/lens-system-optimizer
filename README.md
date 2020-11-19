@@ -1,5 +1,7 @@
 # lens-system-optimizer
 
+<b>Language: Wolfram Mathematica</b>
+
 Inspired by <a href="https://www.youtube.com/watch?v=MzRCDLre1b4">this video</a> 
 I wondered which is the optimal number of filters if I want to shift the polarization of the light by 90 degrees. So I made a quick interactive notebook under the following assumptions: 
 <ol>
